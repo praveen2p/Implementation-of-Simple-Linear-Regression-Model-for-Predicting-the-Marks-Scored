@@ -1,4 +1,4 @@
-![Screenshot 2025-03-11 200804](https://github.com/user-attachments/assets/658b7b8f-7e09-475d-8f81-1bf0e8925f9a)#  EX 02-Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+####  EX 02-Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -9,11 +9,17 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the standard Libraries.
+
 2.Set variables for assigning dataset values.
+
 3.Import linear regression from sklearn.
+
 4.Assign the points for representing in the graph.
+
 5.Predict the regression for marks by using the representation of the graph.
+
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
+
 ## Program:
 ```
 /*
